@@ -1,0 +1,5 @@
+Warning 1: Field 'Description' already exists. Renaming it as 'Description2'
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+Warning 1: Field 'Description' already exists. Renaming it as 'Description2'
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.
+ERROR 1: Attempt to create csv layer (file) against a non-directory datasource.

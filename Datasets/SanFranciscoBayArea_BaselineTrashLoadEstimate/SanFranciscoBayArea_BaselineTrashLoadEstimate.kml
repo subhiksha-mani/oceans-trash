@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Layers" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Layers</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<snippet></snippet>
+	<description>To meet trash reduction milestones over the next decade. A trash reduction crediting program will be used to account for best management practice effectiveness. The permit establishes goals for trash reduction beginning in 2014 and reaching a zero level by 2022.</description>
+	<Folder id="GroupLayer0">
+		<name>Converted_Graphics</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+	</Folder>
+	<Folder id="FeatureLayer2">
+		<name>SFBA Trash Loading 0 - 2,500 (gal/yr)</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{5702D5F4-D503-4DCB-B7AD-58B4AE51ED3D}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B5702D5F4-D503-4DCB-B7AD-58B4AE51ED3D%7D">Full Metadata</a> 
+San Francisco Bay Area Baseline (gal/yr)
+The annual estimated amount of trash discharged is known as the baseline trash load.]]></description>
+	</Folder>
+	<Folder id="FeatureLayer3">
+		<name>SFBA Trash Loading  2,501 - 5,000 (gal/yr)</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{B3176DA9-F812-4079-940B-2C5412463A91}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BB3176DA9-F812-4079-940B-2C5412463A91%7D">Full Metadata</a> 
+San Francisco Bay Area Baseline (gal/yr)
+The annual estimated amount of trash discharged is known as the baseline trash load.]]></description>
+	</Folder>
+	<Folder id="FeatureLayer4">
+		<name>SFBA Trash Loading  5,001 - 25,000 (gal/yr)</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{F0DB2E88-DB04-418A-8030-F3CCE007034D}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BF0DB2E88-DB04-418A-8030-F3CCE007034D%7D">Full Metadata</a> 
+San Francisco Bay Area Baseline (gal/yr)
+The annual estimated amount of trash discharged is known as the baseline trash load.]]></description>
+	</Folder>
+	<Folder id="FeatureLayer5">
+		<name>SFBA Trash Loading  25,001 - 50,000 (gal/yr)</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{B3176DA9-F812-4079-940B-2C5412463A91}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BB3176DA9-F812-4079-940B-2C5412463A91%7D">Full Metadata</a> 
+San Francisco Bay Area Baseline (gal/yr)
+The annual estimated amount of trash discharged is known as the baseline trash load.]]></description>
+	</Folder>
+	<Folder id="FeatureLayer6">
+		<name>SFBA Trash Loading Over 50,000 (gal/yr)</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{146FD25B-B039-4151-ADDE-8C5C24FDA0A4}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B146FD25B-B039-4151-ADDE-8C5C24FDA0A4%7D">Full Metadata</a> 
+San Francisco Bay Area Baseline (gal/yr)
+The annual estimated amount of trash discharged is known as the baseline trash load.]]></description>
+	</Folder>
+	<Folder id="FeatureLayer7">
+		<name>SFBA Permittees&apos; Summary</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{C81C7159-90F8-4E2E-940D-C5BD6932327F}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BC81C7159-90F8-4E2E-940D-C5BD6932327F%7D">Full Metadata</a> 
+San Francisco Bay Area Baseline (gal/yr) summary results for counties]]></description>
+	</Folder>
+	<Folder id="FeatureLayer8">
+		<name>CalWater Hydrological Region</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<description><![CDATA[<a id="{C8140687-0974-4AE7-B8EB-95DA322DC619}"
+href="https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BC8140687-0974-4AE7-B8EB-95DA322DC619%7D">Full Metadata</a> 
+
+The California Interagency Watershed Map of 1999 (updated May 2004, "calw221") is the State of California's working definition of watershed boundaries.]]></description>
+	</Folder>
+</Document>
+</kml>
